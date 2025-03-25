@@ -1,0 +1,22 @@
+# Core dependencies
+streamlit>=1.28.0
+groq
+pandas>=2.0.0
+
+# File processing libraries
+PyPDF2>=3.0.0
+python-docx
+docx2txt>=0.8
+
+# NLP and Machine Learning
+nltk>=3.8.1
+scikit-learn>=1.3.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+numpy
+uuid>=1.30
